@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktor Shishmarev</h1>
 <h3 align="center">Aspiring Software Engineer from Slovakia</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Go, Java, Data Science**
 
 - 💬 Ask me about **calculus, math, algebra**
 
